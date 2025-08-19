@@ -1,0 +1,9 @@
+[project]
+name = "python-utils"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "wordninja>=2.0.0",
+]
